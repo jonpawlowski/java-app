@@ -8,7 +8,7 @@
                 "sku" : "12345678",
                 "producttype": "Transmission",
                 "productimage" :"img/tci_small_computer.jpg",
-                "startingat" : "$599.99",
+                "startingat" : "$599.99 - On Sale!",
                 "variants": [
                     {
                         "text": "GM 4L60e/4L65e",
